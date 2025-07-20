@@ -1,0 +1,16 @@
+# Strings principais de pesquisa
+"smart heritage" OR "smart cultural heritage"
+AND
+("smart city" OR "cidades inteligentes" OR "smart destination" OR "Destino Turístico Inteligente")
+
+# Exemplos de aplicação por base:
+# Scopus
+TITLE-ABS-KEY(("smart heritage" OR "smart cultural heritage")
+ AND ("smart city" OR "cidades inteligentes" OR "smart destination" OR "Destino Turístico Inteligente"))
+
+# Web of Science
+TS=("smart heritage" OR "smart cultural heritage")
+AND TS=("smart city" OR "cidades inteligentes" OR "smart destination" OR "Destino Turístico Inteligente")
+
+# Scite
+QUERY: smart heritage smart cultural heritage smart city cidades inteligentes smart destination Destino Turístico Inteligente
